@@ -1,0 +1,28 @@
+{
+  "name": "wanblee",
+  "version": "0.0.1",
+  "description": "A CLI app that makes it easy to deploy Nuxt apps to AWS",
+  "private": true,
+  "bin": {
+    "wanblee": "./bin/wanblee"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "GOrdon Pike",
+    "email": "gopike@gmail.com",
+    "url": "https://github.com/gpike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpike/wanblee"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/gpike/wanblee/issues",
+  "dependencies": {
+    "commander": "~2.0.0",
+    "autocmdr": "~0.0.7"
+  },
+  "devDependencies": {}
+}

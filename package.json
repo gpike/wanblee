@@ -21,8 +21,10 @@
   "license": "MIT",
   "bugs": "https://github.com/gpike/wanblee/issues",
   "dependencies": {
-    "commander": "~2.0.0",
-    "autocmdr": "~0.0.7"
+    "autocmdr": "~0.0.7",
+    "aws-sdk": "^2.197.0",
+    "cloudfront-tls": "^1.0.0",
+    "commander": "~2.0.0"
   },
   "devDependencies": {}
 }
